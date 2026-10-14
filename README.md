@@ -33,7 +33,7 @@ After installation, restart VLC Media Player. You can find and launch the extens
 
 ---
 
-## 🇨🇿 Instalace a použití (Česky)
+## <img src="https://cloudflare.com" width="24" height="24"> Instalace a použití (Česky)
 
 ### Automatická instalace přes přiložený skript (Windows)
 1. Rozbalte stažený `.zip` soubor.
