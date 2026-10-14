@@ -1,0 +1,19 @@
+=============================================================================
+ Change Speed and Pitch - Project Authors
+=============================================================================
+
+Main Author & Maintainer:
+-------------------------
+* Michal Daňhel <michal.danhel@seznam.cz>
+  GitHub: https://github.com/michaldanhel/vlc-change-speed-pitch
+  Official Page: https://addons.videolan.org/p/2366154
+
+Contributions & Credits:
+------------------------
+* If you want to contribute to this project, feel free to send a pull request
+  or contact the main author.
+
+-----------------------------------------------------------------------------
+Copyright (C) 2026 Michal Daňhel
+Licensed under the GNU General Public License v2 or later (GPLv2+).
+=============================================================================
