@@ -2,6 +2,8 @@
 
 A lightweight extension for VLC Media Player that allows you to easily adjust both playback speed and audio pitch.
 
+<img src="https://images.pling.com/img/00/00/86/15/30/2366154/speed-pitch-extension.png" width="526" height="298" alt="Screenshot of Change Speed and Pitch extension for VLC Media Player">
+
 ## 🚀 Features
 * Dynamic control of playback speed.
 * Accurate audio pitch shifting.
